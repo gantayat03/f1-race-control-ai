@@ -1,0 +1,10 @@
+# Security
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# OS Junk
+.DS_Store
